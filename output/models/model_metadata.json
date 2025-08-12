@@ -1,0 +1,10 @@
+{
+  "model_file": "logreg_optuna_pipeline.pkl",
+  "use_calibrated": true,
+  "threshold": 0.10999999999999999,
+  "created_at": "2025-08-11 18:16:44",
+  "class_mapping": {
+    "no": 0,
+    "yes": 1
+  }
+}

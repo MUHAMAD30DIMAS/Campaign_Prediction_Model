@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+feature-engine
+imbalanced-learn
+optuna
+category-encoders
+skrub
+

@@ -1,0 +1,3 @@
+model,accuracy,precision,recall,f1,AUC,TP,FP,FN,TN,top_decile_lift
+Baseline (TEST),0.694,0.693,0.647,0.669,0.76,386,171,211,482,1.893
+Optuna (TEST),0.69,0.677,0.67,0.673,0.76,400,191,197,462,1.926
